@@ -160,7 +160,7 @@
     "filepond-plugin-image-transform": "^3.6.1",
     "formidable": "^1.2.1",
     "hammerjs": "^2.0.8",
-    "immer": "^5.1.0",
+    "immer": "^8.0.1",
     "intersection-observer": "^0.7.0",
     "keycloak-js": "^8.0.1",
     "ngx-auto-unsubscribe": "^3.0.1",
